@@ -1,0 +1,1 @@
+# Encode module file content
